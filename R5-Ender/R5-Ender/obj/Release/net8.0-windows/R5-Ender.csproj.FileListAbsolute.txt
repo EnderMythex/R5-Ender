@@ -1,0 +1,16 @@
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\bin\Release\net8.0-windows\R5-Ender.exe
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\bin\Release\net8.0-windows\R5-Ender.deps.json
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\bin\Release\net8.0-windows\R5-Ender.runtimeconfig.json
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\bin\Release\net8.0-windows\R5-Ender.dll
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\bin\Release\net8.0-windows\R5-Ender.pdb
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\obj\Release\net8.0-windows\R5_Ender.Form1.resources
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\obj\Release\net8.0-windows\R5-Ender.csproj.GenerateResource.cache
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\obj\Release\net8.0-windows\R5-Ender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\obj\Release\net8.0-windows\R5-Ender.AssemblyInfoInputs.cache
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\obj\Release\net8.0-windows\R5-Ender.AssemblyInfo.cs
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\obj\Release\net8.0-windows\R5-Ender.csproj.CoreCompileInputs.cache
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\obj\Release\net8.0-windows\R5-Ender.dll
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\obj\Release\net8.0-windows\refint\R5-Ender.dll
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\obj\Release\net8.0-windows\R5-Ender.pdb
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\obj\Release\net8.0-windows\R5-Ender.genruntimeconfig.cache
+C:\Users\RTK-g\source\repos\R5-Ender\R5-Ender\obj\Release\net8.0-windows\ref\R5-Ender.dll
